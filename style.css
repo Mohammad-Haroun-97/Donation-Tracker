@@ -62,7 +62,7 @@ select{
 
 body{
 
-    background-image: url(/img/backgroundExam.jpg);
+    background-image: url(./img/backgroundExam.jpg);
 
     background-size: cover;
     background-repeat: no-repeat;
