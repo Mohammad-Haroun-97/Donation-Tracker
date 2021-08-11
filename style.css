@@ -62,7 +62,7 @@ select{
 
 body{
 
-    background-image: url(./img/backgroundExam.jpg);
+    background-image: url(https://westeurope1-mediap.svc.ms/transform/thumbnail?provider=spo&inputFormat=jpg&cs=fFNQTw&docid=https%3A%2F%2Falqudscollege-my.sharepoint.com%3A443%2F_api%2Fv2.0%2Fdrives%2Fb!2spDmTvk_Ey3l_QSLPv1vkLnsRzUCaRDqWTh1FX8GP5tUMRzFWzmQ47zimRsNl9q%2Fitems%2F015YABFJXHGVDY2GB3KVDZEBRU55PJGNVY%3Fversion%3DPublished&cTag=%22c%3A%7B8D4735E7-3B18-4755-9206-34EF5E9336B8%7D%2C1%22&encodeFailures=1&srcWidth=&srcHeight=&width=626&height=417&action=Access);
 
     background-size: cover;
     background-repeat: no-repeat;
